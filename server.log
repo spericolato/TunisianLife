@@ -1,0 +1,15 @@
+[05:24:20] alt:V Server 5.3 (release)
+[05:24:20] Starting alt:V Server on 0.0.0.0:7788
+[05:24:20] Loading resource TunisianLifeRp
+[05:24:20] Loading resource chat
+[05:24:20] Loaded resource chat
+[05:24:20] Loaded resource TunisianLifeRp
+[05:24:20] Required server permissions:
+[05:24:20] Optional server permissions:
+[05:24:20] Starting HTTP server on 0.0.0.0:7788
+[05:24:20] Main thread started (ThreadId: 10704)
+[05:24:20] Colshape thread started (ThreadId: 12880)
+[05:24:20] EntityStreamer thread started (ThreadId: 3724)
+[05:24:20] Network thread started (ThreadId: 2244)
+[05:24:20] Console thread started (ThreadId: 13200)
+[05:24:20] Server started
