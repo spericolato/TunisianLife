@@ -1,15 +1,74 @@
-[05:24:20] alt:V Server 5.3 (release)
-[05:24:20] Starting alt:V Server on 0.0.0.0:7788
-[05:24:20] Loading resource TunisianLifeRp
-[05:24:20] Loading resource chat
-[05:24:20] Loaded resource chat
-[05:24:20] Loaded resource TunisianLifeRp
-[05:24:20] Required server permissions:
-[05:24:20] Optional server permissions:
-[05:24:20] Starting HTTP server on 0.0.0.0:7788
-[05:24:20] Main thread started (ThreadId: 10704)
-[05:24:20] Colshape thread started (ThreadId: 12880)
-[05:24:20] EntityStreamer thread started (ThreadId: 3724)
-[05:24:20] Network thread started (ThreadId: 2244)
-[05:24:20] Console thread started (ThreadId: 13200)
-[05:24:20] Server started
+[13:58:42] alt:V Server 5.3 (release)
+[13:58:42] Starting alt:V Server on 0.0.0.0:7788
+[13:58:42] Loading resource TunisianLifeRp
+[13:58:42] Loading resource chat
+[13:58:42] Loaded resource chat
+[13:58:42] Loaded resource TunisianLifeRp
+[13:58:42] Required server permissions:
+[13:58:42] Optional server permissions:
+[13:58:42] Starting HTTP server on 0.0.0.0:7788
+[13:58:42] Main thread started (ThreadId: 10828)
+[13:58:42] Colshape thread started (ThreadId: 15020)
+[13:58:42] EntityStreamer thread started (ThreadId: 4880)
+[13:58:42] Server started
+[13:58:42] Network thread started (ThreadId: 16424)
+[13:58:42] Console thread started (ThreadId: 15096)
+[13:58:48] jowna behi
+[13:58:52] [chat:cmd] CHR0N1CL3: /veh sdqsd
+[13:58:52][Error] Failed to create vehicle: 3584108118 is not a proper model hash
+[13:58:56] jowna behi
+[13:59:11] [chat:cmd] Player: /veh zentorno
+[13:59:29] [chat:cmd] CHR0N1CL3: /veh besra
+[13:59:40] [chat:cmd] CHR0N1CL3: /veh besra
+[14:00:35] [chat:cmd] CHR0N1CL3: /veh shotaro
+[14:01:25] [object Object] raw met hahaha
+[14:01:37] [chat:cmd] CHR0N1CL3: /veh shotaro
+[14:02:03] [chat:cmd] CHR0N1CL3: /veh seasparrow3
+[14:02:04] [object Object] raw met hahaha
+[14:02:11] [chat:cmd] CHR0N1CL3: /veh seasparrow3
+[14:02:28] [chat:cmd] CHR0N1CL3: /veh seasparrow3
+[14:02:33] [chat:cmd] Player: /veh zodyak
+[14:02:33][Error] Failed to create vehicle: 4132702278 is not a proper model hash
+[14:03:09] [chat:cmd] Player: /veh jetski
+[14:03:09][Error] Failed to create vehicle: 2972185928 is not a proper model hash
+[14:03:38] [chat:cmd] CHR0N1CL3: /veh alkonost
+[14:03:58] [object Object] raw met hahaha
+[14:04:03] [chat:cmd] CHR0N1CL3: /veh seasparrow3
+[14:04:05] [chat:cmd] Player: /veh zontorno
+[14:04:05][Error] Failed to create vehicle: 1826032188 is not a proper model hash
+[14:04:08] [chat:cmd] CHR0N1CL3: /veh seasparrow3
+[14:04:09] [object Object] raw met hahaha
+[14:04:13] [chat:cmd] Player: /veh zentorno
+[14:04:28] [chat:cmd] CHR0N1CL3: /veh seasparrow3
+[14:04:37] [chat:cmd] CHR0N1CL3: /veh alkonost
+[14:05:11] [chat:cmd] CHR0N1CL3: /veh tankercar
+[14:05:24] [chat:cmd] CHR0N1CL3: /allweapons
+[14:06:05] [chat:cmd] CHR0N1CL3: /veh :thruster
+[14:06:05][Error] Failed to create vehicle: 320786973 is not a proper model hash
+[14:06:08] [chat:cmd] CHR0N1CL3: /veh thruster
+[14:06:30] [chat:cmd] Player: /veh zentorno
+[14:07:44] [chat:cmd] Player: /allweapons
+[14:07:53] [chat:cmd] CHR0N1CL3: /skin a_c_humpback
+[14:07:53] [object Object] raw met hahaha
+[14:07:59] [object Object] raw met hahaha
+[14:08:10] [chat:cmd] CHR0N1CL3: /veh thruster
+[14:08:22] [chat:cmd] CHR0N1CL3: /skin a_c_rat
+[14:08:23] [object Object] raw met hahaha
+[14:08:33] [chat:cmd] Player: /skin s_m_m_chemsec_01
+[14:15:11] jowna behi
+[14:19:03] [chat:cmd] CHR0N1CL3: /veh scarab3
+[14:19:07] [chat:cmd] CHR0N1CL3: /veh scarab3
+[14:19:52] [chat:cmd] CHR0N1CL3: /veh seashark3
+[14:20:30] [chat:cmd] CHR0N1CL3: /avisa
+[14:20:34] [chat:cmd] CHR0N1CL3: /veh avisa
+[14:22:10] [object Object] raw met hahaha
+[14:22:50] [chat:cmd] CHR0N1CL3: /veh cutter
+[14:23:47] [chat:cmd] CHR0N1CL3: /veh rrocket
+[14:24:49] [chat:cmd] CHR0N1CL3: /veh oppressor2
+[14:26:09] [chat:cmd] CHR0N1CL3: /VEH kosatka
+[14:26:16] [object Object] raw met hahaha
+[14:26:29] [chat:cmd] CHR0N1CL3: /veh oppressor2
+[14:27:40] [chat:cmd] CHR0N1CL3: /VEH kosatka
+[14:27:40] [object Object] raw met hahaha
+[14:27:50] [chat:cmd] CHR0N1CL3: /veh oppressor2
+[14:28:45] [chat:cmd] CHR0N1CL3: /VEH kosatka
